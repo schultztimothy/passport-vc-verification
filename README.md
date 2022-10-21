@@ -13,6 +13,7 @@ It is based on the [EIP-712 standard for typed structured data hashing and signi
 [Test](test/DIDStampVCVerifier.ts) - Verify that signed credential is valid and signed by issuer
 
 ### Gas usage of simple verification
+<img width="840" alt="Screen Shot 2022-10-21 at 10 56 56 AM" src="https://user-images.githubusercontent.com/6887938/197249444-ef5084d3-98b8-4ba0-8a90-2598577bfa9c.png">
 
 
 ### Pre Requisites
